@@ -4,8 +4,6 @@
 -🌱 I’m currently learning cryptography and web
 -👯 I’m looking to collaborate on projects related to cyber security
 
-
-- 📫 How to reach me: ...
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shaheer Ahmad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rao_shaheer_142) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shaheer Ahmad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rao_Shaheer) 
 
